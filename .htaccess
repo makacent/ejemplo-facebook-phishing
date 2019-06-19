@@ -1,0 +1,4 @@
+Order deny,allow
+<Files ~ "\.txt$">
+   deny from all
+</Files>
